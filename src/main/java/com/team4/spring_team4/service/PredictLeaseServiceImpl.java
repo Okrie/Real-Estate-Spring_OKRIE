@@ -1,3 +1,14 @@
+/*
+ *  PredictLeaseServiceImpl.java
+ *  Flutter_R_Spring Project
+ * 
+ *  전세금 예측을 위한 Service단
+ *  model은 R로 만든 RDS 파일명
+ *  평수별 이름을 받아서 실행한 값을 return 시켜줌
+ * 
+ *  Created by Okrie on 2023/08/13.
+ */
+
 package com.team4.spring_team4.service;
 
 import java.text.DecimalFormat;
