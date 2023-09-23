@@ -1,6 +1,6 @@
 # Real-Estate-Spring_OKRIE
 
-Java Spring Boot로 Flutter로 제작한 매매, 전세가 예측 어플리케이션에서 요청하는 API 서버 제작
+Java Spring Boot로 Flutter로 제작한 매매, 전세가 예측 어플리케이션에서 요청하는 API 서버 제작    
 각 해당하는 주소에 대한 정보 및 지하철, 인근 버스정류장 개수 등 앱에서 필요한 API 제작
     
 <a href="https://drive.google.com/file/d/1DpbfSfgAn9wvw47s7ArMIJdveqDGZ9Yb/view?usp=sharing">![cover](https://github.com/Okrie/Real-Estate-Spring_OKRIE/blob/main/Real%20Estate_Spring.png)</a> 
