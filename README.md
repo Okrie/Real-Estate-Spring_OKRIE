@@ -28,7 +28,7 @@ Java Spring Boot로 Flutter로 제작한 매매, 전세가 예측 어플리케�
 #### 기술 스택
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,java,figma,spring" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,java,figma,spring,r" />
   </a>
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" height="53" title="Java Script">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jsp_icon_130498.png" height="53" title="JSP">
