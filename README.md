@@ -1,6 +1,54 @@
 # Real-Estate-Spring_OKRIE
 
-프로젝트 내 앱에서 필요한 정보 API로 제작
+Java Spring Boot로 Flutter로 제작한 매매, 전세가 예측 어플리케이션에서 요청하는 API 서버 제작
+각 해당하는 주소에 대한 정보 및 지하철, 인근 버스정류장 개수 등 앱에서 필요한 API 제작
+    
+<a href="https://drive.google.com/file/d/1DpbfSfgAn9wvw47s7ArMIJdveqDGZ9Yb/view?usp=sharing">![cover](https://github.com/Okrie/Real-Estate-Spring_OKRIE/blob/main/Real%20Estate_Spring.png)</a> 
+
+
+---
+
+### 기능 설명
+![image](https://github.com/Okrie/Real-Estate-Spring_OKRIE/assets/24921229/92a5c467-bb53-4eb8-83a2-4925f4bb5712)
+
+
+- csv내 도로명 주소의 위경도 및 지하철역 최단거리 값 저장
+- csv내 도로명 주소의 위경도 및 버스정류소 개수 저장
+- 전세가 데이터 예측
+- 매매가 데이터 예측
+- 하나의 Endpoint로 작업 분류
+
+
+---
+---
+#### Database    
+    : MySQL    
+    
+    
+#### 기술 스택
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,java,figma,spring" />
+  </a>
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" height="53" title="Java Script">
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jsp_icon_130498.png" height="53" title="JSP">
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/tomcat_original_wordmark_logo_icon_146324.png" height="53" title="Tomcat">
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/slack_tile_logo_icon_168820.png" height="53" title="Slack">
+    <img src="https://cdn.icon-icons.com/icons2/3913/PNG/512/miro_logo_icon_248450.png" height="53" title="Miro">
+    <img src="https://cdn.icon-icons.com/icons2/3221/PNG/512/docs_editor_suite_docs_google_icon_196688.png" height="53" title="Google Docs">
+    <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/notion_logo_icon_145025.png" height="53" title="notion">
+</p>
+
+---
+##### 추가 작업
+- 팀원의 오류 수정 도움
+- 일부 필요한 부분 작업 수정
+
+---
+---
+    
+### 해당 레포지토리 설명
+#### 프로젝트 내 앱에서 필요한 정보 API로 제작
 - csv내 도로명 주소의 위경도 및 지하철역 최단거리 값 저장
 - csv내 도로명 주소의 위경도 및 버스정류소 개수 저장
 - 전세가 데이터 예측
