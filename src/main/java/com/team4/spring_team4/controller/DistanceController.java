@@ -82,7 +82,7 @@ public class DistanceController {
         List<String> road_address_name = new ArrayList<String>();
 
         try {
-            String API_KEY = "ef894ee905a0643b7844daf7341d7569";
+            String API_KEY = "****";
             String apiUrl = "https://dapi.kakao.com/v2/local/search/address.json?query=";
 
             for(int i = 0; i < roadList.size(); i++){
